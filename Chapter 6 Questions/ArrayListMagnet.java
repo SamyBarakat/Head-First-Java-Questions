@@ -6,6 +6,17 @@ import java.util.*;
  *
  * @author SamyB
  */
+
+/*
+
+Can you reconstruct the code snippets to make a working Java program that produces the output
+listed below? NOTE: To do this exercise, you need one NEW piece of info—if you look in the API for
+ArrayList, you’ll find a second add method that takes two arguments:
+
+add(int index, Object o)
+
+*/
+
 public class ArrayListMagnet {
 
     /*  OUTPUT:
